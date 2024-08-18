@@ -1,2 +1,1 @@
-# Tarea
-Tarea 
+práctica 1 pdf
